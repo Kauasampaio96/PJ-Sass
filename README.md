@@ -23,5 +23,5 @@
 
 <h2>🌐 Hospedagem</h2>
 
-https://kauachaves-portfolio.netlify.app/
+<a href="https://projeto-sass.netlify.app/">Acesse</a>
 
