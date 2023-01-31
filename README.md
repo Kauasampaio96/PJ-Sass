@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="to_readme.png">
+  <img src="to_readme_sass.gif">
 </p>
 
 
 <p align="center">
-  <img src="to_readme2.png">
+  <img src="to_readme_sass2.gif">
 </p>
 
 <h2>👨‍💻 Sobre o projeto</h2>
